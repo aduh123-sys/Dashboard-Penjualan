@@ -7,7 +7,7 @@ import requests
 from io import BytesIO
 import re
 
-st.set_page_config(page_title="Dashboard Penjualan TM & TT 22222", layout="wide")
+st.set_page_config(page_title="Dashboard Penjualan TM & TT", layout="wide")
 
 # =========================
 # CSS FIXED HEADER + KPI TERPISAH
@@ -91,7 +91,7 @@ st.markdown("""
 # =========================
 st.markdown("""
 <div class="fixed-header">
-    <h2 style="margin:0;">⚡ Dashboard Penjualan kluster B & I UID Jawa Timur</h2>
+    <h2 style="margin:0;">⚡ Dashboard Penjualan kluster B & I UID Jawa Timur 2</h2>
 </div>
 """, unsafe_allow_html=True)
 
