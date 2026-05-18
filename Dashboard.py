@@ -91,7 +91,7 @@ st.markdown("""
 # =========================
 st.markdown("""
 <div class="fixed-header">
-    <h2 style="margin:0;">⚡ Dashboard Penjualan kluster B & I UID Jawa Timur 2</h2>
+    <h2 style="margin:0;">⚡ XXX  Dashboard Penjualan kluster B & I UID Jawa Timur</h2>
 </div>
 """, unsafe_allow_html=True)
 
