@@ -98,7 +98,7 @@ st.markdown("""
 # =========================
 # DEFAULT LINK DATA DI SINI
 # =========================
-DEFAULT_DATA_URL = "https://ptpln365-my.sharepoint.com/:x:/g/personal/irham_tantowi_ptpln365_onmicrosoft_com/IQDRVxFl90XKS4xmnc5lwA8DAYHKpDnQNSeEave9aVxxBvs?e=INYyM5"
+DEFAULT_DATA_URL = "https://ptpln365-my.sharepoint.com/:x:/g/personal/irham_tantowi_ptpln365_onmicrosoft_com/IQB7_H2n8ioZTpRDENhpxex0AdomJBITjOdqBCrn7Uo7RZ4?e=we3EgD"
 
 def convert_google_drive_url(url):
     match = re.search(r"/d/([a-zA-Z0-9_-]+)", url)
